@@ -14,7 +14,7 @@ https://nodejs.org/en/download/
 
 Clone this repo into a new project folder. You may also download it as a ZIP file.
 
-https://github.com/buckyroberts/angular-2-template.git
+https://github.com/HarjeetSinghGoldy/angular2
 
 ### Install Libraries and Dependencies
 
